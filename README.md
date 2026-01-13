@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=160&text=oksi&fontSize=56&fontColor=c9d1d9&fontAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=160&text=🐦‍🔥oksi&fontSize=56&fontColor=c9d1d9&fontAlignY=55" />
 </p>
 
 <p align="center">
@@ -28,11 +28,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=oksidev&bg_color=0d1117&color=8b949e&line=58a6ff&point=c9d1d9&hide_border=true" />
 </p>
 
-<br/>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=110&section=footer" />
-</p>
 
 <p align="center">
   <sub>no quotes. no emojis. no noise.</sub>
